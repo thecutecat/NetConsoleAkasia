@@ -91,7 +91,7 @@ static int PerkalianSederhana(int j, int k)
 }
 
 //4. count store revenue
-CountRevenue("KawanLamaJewel"); //result  3.250.000
+CountRevenue("KawanLamaJewel"); //result Rp. 3.250.000
 static double CountRevenue(string StoreName)
 {
     double revenue = 0.0;

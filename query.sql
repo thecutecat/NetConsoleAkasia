@@ -14,4 +14,4 @@ from student s
     --b. product auction 
 
     --q1 : teknologi yg dipakai : .Net Core dan SQL Server
-    --
+    
