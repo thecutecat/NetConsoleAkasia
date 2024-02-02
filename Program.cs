@@ -2,7 +2,7 @@
 Console.WriteLine("Hello, World!");
 
 //1. Algoritma hitung kata siapa dari string usomaanapaiumasydnip
-//CountWordPossibility("usomaanapaiumasydnip","siapa");
+CountWordPossibility("usomaanapaiumasydnip","siapa");
 
 static int CountWordPossibility(string inputString, string targetWord)
 
@@ -75,7 +75,7 @@ static int CountWordPossibility(string inputString, string targetWord)
 
 //3. perkalian
 
-//PerkalianSederhana(10, 5);
+PerkalianSederhana(10, 5);
 static int PerkalianSederhana(int j, int k)
 {
     int hasil = 0;
